@@ -1,0 +1,22 @@
+
+.card{
+  width: 500px;
+  height: 300px;
+  background-color: #D7E1E7;
+  border-radius: 10px;
+  display: flex;
+  padding: 20px;
+  justify-content: space-between;
+}
+
+.photo{
+  background-color: #000;
+  width: 200px;
+  border-radius: 5px;
+}
+.infoTitle{
+  font-size: 20px;
+}
+.infoSubtitle{
+  font-size: 12px;
+}
